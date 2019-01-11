@@ -7,7 +7,6 @@ Speaking of results... let's talk about how to read the results that tests give 
 ## Reading Results of Tests
 
 If we run `learn` in our terminal right now, you'll get a bunch of failed tests. It will look something like this: 
-
 **Output from running `learn` in Terminal** 
 
 ```
